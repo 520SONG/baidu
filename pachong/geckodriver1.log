@@ -1,0 +1,5 @@
+1541665064280	mozrunner::runner	INFO	Running command: "F:\\火狐\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\史颂平\\AppData\\Local\\Temp\\rust_mozprofile.i5NKut90YjnD"
+*** You are running in headless mode.
+1541665078622	Marionette	INFO	Listening on port 63470
+[Child 27768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Parent 28312, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
